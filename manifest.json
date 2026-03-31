@@ -1,9 +1,0 @@
-{
-  "name": "MixLimitMod",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/yourname/MixLimitMod",
-  "description": "Increases mixing station limit to 1000 items configurable in the mods app.",
-  "dependencies": [
-    "LavaGang-MelonLoader-0.6.1"
-  ]
-}
